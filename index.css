@@ -2,3 +2,21 @@ body{
     background-color: gray;
     width: 100%;
 }
+#test{
+    width: 53%;
+    margin: 12px 12px 12px 12px;
+    padding: 12px 12px 12px 12px;
+    background-color: beige;
+    border: 1px;
+}
+.cuestion{
+    font-size: 20px;
+    margin: 14px 0px 14px 5px;
+
+}
+
+#boton{
+    margin: 14px 0px 24px 26px;
+    font-size: 20px;
+    padding: 10px 10px 10px 10px;
+}
